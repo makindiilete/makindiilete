@@ -80,14 +80,6 @@ End-to-end **Python (FastAPI) + Claude AI** service that converts borrower bank 
 
 ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=makindiilete&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
