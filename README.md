@@ -3,7 +3,7 @@
 <h3 align="center">Senior Frontend Engineer • Fintech • AI Workflow Orchestration</h3>
 
 <p align="center">
-  <a href="https://uiforge.com.ng"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://uiforge.com.ng"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:michael.akindiilete@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/michael-akindiilete/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=makindiilete&style=for-the-badge&color=blueviolet" alt="Profile views"/>
