@@ -2,6 +2,8 @@
 
 <h3 align="center">Senior Frontend &amp; Mobile Engineer • Fintech • AI Workflow Orchestration</h3>
 
+<p align="center"><b>🟢 Open to senior frontend &amp; mobile (React Native) roles</b></p>
+
 <p align="center">
   <a href="https://uiforge.com.ng"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:michael.akindiilete@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -14,23 +16,27 @@
 ### 🚀 About Me
 
 - 🏦 **Senior Frontend & Mobile Engineer** with **7+ years** building scalable production systems for fintech (React, React Native, Next.js, Angular)
-- 🤖 Architect of **Advancly Bank Statement Analysis** — a multi-model Claude pipeline that reconciles bank statements at scale and automates credit decisioning
-- 🧰 Creator of **Lintlore** — turns code-review history into rules your AI coding agents obey, across GitHub, GitLab & Azure Repos
-- 🧩 Lead engineer on micro-frontend migrations, design systems, and CBN-compliant KYC at **Moniepoint** and **Advancly**
-- 🛠️ Currently extending into platform-level **AI workflow orchestration**: Python services, multi-LLM routing, and developer tooling that lifts entire teams
+- 📈 Core engineer on a lending product that grew from **under ₦5M to ₦900M–₦1B** in disbursement volume and past **10,000 borrowers**
+- 📱 Built a **React Native** savings app from the ground up for **500,000+ users** on iOS and Android: OTA updates, Face ID / fingerprint login, and push notifications that lifted retention by **~18%**
+- ⚡ Cut a portal's login time by more than half: largest contentful paint **7.2s → ~3.2s**, Lighthouse **46 → 91**
+- 🧩 Lead engineer on micro-frontend migrations, design systems, and CBN-compliant KYC
+- 🤖 Building **AI workflow orchestration**: a multi-model bank statement pipeline, a production-failure autopilot, and developer tooling that lifts entire teams
 - 📍 Based in **Lagos, Nigeria** • 🗣️ English & Yoruba
+- 🔒 Most of my production work lives in private company repositories; the projects below are the ones I can show
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend**
+**Frontend & Mobile**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
@@ -69,7 +75,7 @@ A developer-productivity engine that mines code-review comments on your merge/pu
 - 🔌 **Platform-agnostic pipeline** — GitLab adapter shipped; GitHub & Azure Repos on the roadmap behind the same normalized interface.
 - ⚙️ Node ≥22 · LLM-powered (Claude by default, swappable) · MIT-licensed, no telemetry, no lock-in.
 
-#### 🏦 Advancly Bank Statement Analysis — *multi-model AI credit pipeline*
+#### 🏦 Bank Statement Analysis — *multi-model AI credit pipeline*
 
 End-to-end **Python (FastAPI) + Claude AI** service that converts borrower bank statements between PDF, Excel, and JSON in any direction — and, when output is Excel, automatically runs an AI credit analysis the team can act on in minutes.
 
@@ -77,6 +83,15 @@ End-to-end **Python (FastAPI) + Claude AI** service that converts borrower bank 
 - 📊 **AI credit decisioning** in the Excel output: risk rating, red/green flags, income-pattern summary, loan recommendation.
 - ⚙️ **Chunked multi-model pipeline with a mathematical reconciliation gate** — cut a 1,321-page statement (14,358 transactions) from 2+ hours to **~20 minutes at 0.0 kobo difference**.
 - 💼 **Business impact:** replaced a workflow that needed ~10 analysts; now runs with 3–5 supervisors verifying AI recommendations.
+
+#### 📊 Mixpanel AI Autopilot — *finds what is failing in production, and why*
+
+A Claude Code plugin for a fintech mobile app that pulls production failures from Mixpanel, works out the root cause, and stops at a fix plan an engineer approves. Built for the failures that hurt most and show up last: transactions that abort before submit or get rejected by the backend, with no crash and no error boundary.
+
+- 🔍 **Three analysis engines** — compares failed vs successful attempts property by property, groups the backend's own rejection messages per endpoint, and tracks funnel drops release over release.
+- 💰 **Ranks by money-weighted severity**, names the component responsible, and checks each finding against the web app before planning a fix.
+- 🚦 **Release gate mode** (`--gate <version>`) answers "ship or hold" while a release rolls out.
+- 🛡️ **Human in the loop** — never writes application code, files a ticket only for fixes you approve, and keeps every customer identifier out of its reports.
 
 ---
 
@@ -95,4 +110,4 @@ End-to-end **Python (FastAPI) + Claude AI** service that converts borrower bank 
 
 ### 📫 Let's Connect
 
-I'm open to senior frontend, fullstack, and AI-engineering opportunities. Reach me at **michael.akindiilete@gmail.com** or via my [website](https://uiforge.com.ng).
+I'm open to senior frontend, mobile (React Native), fullstack, and AI-engineering opportunities. Reach me at **michael.akindiilete@gmail.com** or via my [website](https://uiforge.com.ng).
