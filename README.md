@@ -95,19 +95,6 @@ A Claude Code plugin for a fintech mobile app that pulls production failures fro
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makindiilete&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makindiilete&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makindiilete&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm open to senior frontend, mobile (React Native), fullstack, and AI-engineering opportunities. Reach me at **michael.akindiilete@gmail.com** or via my [website](https://uiforge.com.ng).
