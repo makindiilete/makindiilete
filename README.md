@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Michael Oluwamayowa Akindiilete 👋</h1>
 
-<h3 align="center">Senior Frontend Engineer • Fintech • AI Workflow Orchestration</h3>
+<h3 align="center">Senior Frontend &amp; Mobile Engineer • Fintech • AI Workflow Orchestration</h3>
 
 <p align="center">
-  <a href="https://uiforge.com.ng"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://uiforge.com.ng"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="mailto:michael.akindiilete@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/michael-akindiilete/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=makindiilete&style=for-the-badge&color=blueviolet" alt="Profile views"/>
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 🏦 **Senior Frontend Engineer** with **7+ years** building scalable production systems for fintech (React, React Native, Next.js, Angular)
+- 🏦 **Senior Frontend & Mobile Engineer** with **7+ years** building scalable production systems for fintech (React, React Native, Next.js, Angular)
 - 🤖 Architect of **Advancly Bank Statement Analysis** — a multi-model Claude pipeline that reconciles bank statements at scale and automates credit decisioning
 - 🧰 Creator of **Lintlore** — turns code-review history into rules your AI coding agents obey, across GitHub, GitLab & Azure Repos
 - 🧩 Lead engineer on micro-frontend migrations, design systems, and CBN-compliant KYC at **Moniepoint** and **Advancly**
@@ -95,4 +95,4 @@ End-to-end **Python (FastAPI) + Claude AI** service that converts borrower bank 
 
 ### 📫 Let's Connect
 
-I'm open to senior frontend, fullstack, and AI-engineering opportunities. Reach me at **michael.akindiilete@gmail.com** or via my [portfolio](https://uiforge.com.ng).
+I'm open to senior frontend, fullstack, and AI-engineering opportunities. Reach me at **michael.akindiilete@gmail.com** or via my [website](https://uiforge.com.ng).
